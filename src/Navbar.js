@@ -24,9 +24,9 @@ function Navbar() {
 
         <img 
         className="nav_avatar"
-        src = "https://upload.wikimedia.org/wikipedia/commons/0/0b/Netflix-avatar.png"
+        src = "/netflix-avatar.png"
         alt = "Netflix Logo"/>
-
+        
     </div>
     
   )
