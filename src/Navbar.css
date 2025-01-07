@@ -27,5 +27,6 @@
     position: fixed;
     right: 20px;
     width: 200px;
+    margin-top: -1.5rem;
     object-fit: contain;
 }
